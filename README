@@ -1,8 +1,7 @@
+Trabalho relacionado a disciplina de Projeto e Análise de Algoritmos do Curso Mestrado Acadêmico em Computação Aplicada.
+
 Equipe: Beatriz B. Martins, Beatriz M. Reichert, Karine A. Córdova
 Atividade: Implementação de uma Árvore Binária de Busca
-
-Dado que não foi especificado uma máquina para testar a implementação, nós utilizamos 
-a ens1. O código está executando sem problemas.
 
 Usamos a aplicação de teste do professor. Precisamos fazer apenas as seguintes alterações:
     - O ponteiro da linha 21
